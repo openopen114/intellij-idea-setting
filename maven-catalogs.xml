@@ -3,7 +3,7 @@
     <option name="remote">
       <list>
         <Remote>
-          <option name="name" value="repo.maven.apache.org" />
+          <option name="name" value="archetype-catalog" />
           <option name="url" value="https://repo.maven.apache.org/maven2/archetype-catalog.xml" />
         </Remote>
       </list>
