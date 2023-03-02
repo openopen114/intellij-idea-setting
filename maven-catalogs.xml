@@ -1,11 +1,11 @@
 <application>
   <component name="MavenCatalogManager">
-    <option name="remote">
+    <option name="local">
       <list>
-        <Remote>
+        <Local>
           <option name="name" value="archetype-catalog" />
-          <option name="url" value="https://repo.maven.apache.org/maven2/archetype-catalog.xml" />
-        </Remote>
+          <option name="path" value="$USER_HOME$/Documents/idea/archetype-catalog.xml" />
+        </Local>
       </list>
     </option>
   </component>
